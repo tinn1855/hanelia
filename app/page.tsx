@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <Header />
       <main>
-        <h1>Home</h1>
+        <p>home</p>
       </main>
       <Footer />
     </>
