@@ -13,9 +13,9 @@ const headingVariants = cva(
         h1: "text-4xl font-extrabold",
         h2: "text-3xl",
         h3: "text-2xl font-semibold",
-        h4: "text-xl font-semibold",
-        h5: "text-lg font-semibold",
-        h6: "text-base font-semibold",
+        h4: "text-lg font-semibold",
+        h5: "text-base font-semibold",
+        h6: "text-sm font-semibold",
       },
     },
     defaultVariants: {
