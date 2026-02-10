@@ -107,7 +107,7 @@ export function HeroSection() {
         setApi={setApi}
         className="w-full"
       >
-        <CarouselContent className="ml-0">
+        <CarouselContent>
           {HERO_SLIDES.map((slide, i) => (
             <CarouselItem key={i} className="pl-0">
               <HeroSlide {...slide} />
